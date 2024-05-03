@@ -13,8 +13,8 @@ const configs = (function () {
 	// if dummy tasks are still visible, do !clearall to clear all tasks
 
 	// fonts
-	const headerFontFamily = "Fredoka One"; // supports all google fonts - https://fonts.google.com/
-	const bodyFontFamily = "Nunito"; // supports all google fonts - https://fonts.google.com/
+	const headerFontFamily = "Pixelify Sans"; // supports all google fonts - https://fonts.google.com/
+	const bodyFontFamily = "Pixelify Sans"; // supports all google fonts - https://fonts.google.com/
 
 	// scroll
 	const pixelsPerSecond = 70; // must be a number
@@ -59,7 +59,7 @@ const configs = (function () {
 
 	// task (individual tasks)
 	const numberOfLines = 1; // number of lines for the task
-	const usernameColor = "white"; // hex or name, "" for twitch username color
+	const usernameColor = ""; // hex or name, "" for twitch username color
 	const taskDirection = "row"; // row or column
 
 	const usernameMaxWidth = "100%"; // must have px or % at the end
