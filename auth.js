@@ -1,4 +1,4 @@
-const auth = "uklb0k1vz6a809qaxj16rwaun38jbm"
+const auth = (function () {
 	// Authentication and channels - required
 	const channel = "auiegames"; // your channel
 	const username = "HaniNyuki"; // bot account or your channel
