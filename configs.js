@@ -242,7 +242,7 @@ const configs = (function () {
 	};
 
 	const titles = [
-		"!RythonDev",
+		"AuieGames Body Doubing!",
 		"!taskadd",
 		"!taskdone",
 		"!taskedit",
