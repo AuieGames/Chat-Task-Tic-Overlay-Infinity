@@ -1,10 +1,10 @@
-const auth = "7ntqm3vbh7fg7mtt9novqswa69xj18"
+const auth = "uklb0k1vz6a809qaxj16rwaun38jbm"
 	// Authentication and channels - required
 	const channel = "AuieGames"; // your channel
 	const username = "HaniNyuki"; // bot account or your channel
 
 	// You may or may not include the "oauth:" portion of your token
-	const oauth = "7ntqm3vbh7fg7mtt9novqswa69xj18";
+	const oauth = "uklb0k1vz6a809qaxj16rwaun38jbm";
 
 	return {
 		channel,
