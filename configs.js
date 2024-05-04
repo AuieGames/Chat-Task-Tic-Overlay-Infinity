@@ -65,10 +65,10 @@ const configs = (function () {
 	const usernameMaxWidth = "100%"; // must have px or % at the end
 
 	const taskBackgroundColor = "#000"; // hex only
-	const taskBackgroundOpacity = 0.8; // must be between 0 and 1
+	const taskBackgroundOpacity = 0; // must be between 0 and 1
 
 	const taskFontSize = "25px"; // must have px at the end
-	const taskFontColor = "white"; // hex or name
+	const taskFontColor = "#D08314"; // hex or name
 
 	const taskBorderColor = "black"; // hex or name
 	const taskBorderWidth = "0px"; // must have px at the end
